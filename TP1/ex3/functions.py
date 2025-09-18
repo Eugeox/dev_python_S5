@@ -18,7 +18,6 @@ def mesImpots(revenue):
     -------
     impots : int
         Les impots dus
-
     """
     impots = 0
     for i in range(len(INDEX_IMPOTS)):
